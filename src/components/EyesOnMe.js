@@ -6,7 +6,7 @@ function EyesOnMe() {
     console.log("Good!");
   }
   function blurHandler() {
-    console.log("Hey! Eyes on me!.");
+    console.log("Hey! Eyes on me!");
   }
   return (
     <>
